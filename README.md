@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @zine-eddine27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut, je suis @zine-eddine27
+- Web devellopeur full stack
+- 👀 Co-fondateur d'une solutions innovante pour tout les commerces: 
+
+  Offrez des cadeaux à vos clients et explosez vos Avis Google
+  Intégrez un jeu dans votre établissement et offrez la possibilité à vos clients de gagner des cadeaux en échange d'actions qui vont booster votre réputation en ligne grâce à cadeo.fr
 
 <!---
 zine-eddine27/zine-eddine27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
